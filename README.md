@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I'm a student at Eötvös Loránd University (ELTE) Hungary
+- I'm a Computer Science student
+- I'm currently learning game dev with Unreal Engine
+- I'm looking for ways to upgrade my coding and any other IT skills outside Uni
 <!--
 **zeleia/zeleia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
